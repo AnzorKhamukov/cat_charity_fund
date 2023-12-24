@@ -53,7 +53,8 @@ FIRST_SUPERUSER_PASSWORD=<пароль суперюзера>
    "is_active": true,
    "is_superuser": false,
    "is_verified": false
-}```
+}
+```
 
 >>>>. Ответ:
 ```
@@ -63,7 +64,8 @@ FIRST_SUPERUSER_PASSWORD=<пароль суперюзера>
    "is_active": true,
    "is_superuser": false,
    "is_verified": false
-}```
+}
+```
 
 >. Получение всех пожертвований:
 >>. GET-запрос /donation/
@@ -80,4 +82,5 @@ FIRST_SUPERUSER_PASSWORD=<пароль суперюзера>
        "fully_invested": true,
        "close_date": "2019-08-24T14:15:22Z"
    }
-]```
+]
+```
